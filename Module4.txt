@@ -1,0 +1,2 @@
+GUI Clients
+Git comes with built-in GUI tools for committing (git-gui) and browsing (gitk), but there are several third-party tools for users looking for platform-specific experience.
